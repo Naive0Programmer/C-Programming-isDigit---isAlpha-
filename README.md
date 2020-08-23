@@ -16,7 +16,7 @@ Once we create our main class, usually include a libarary **stdio.h** this has m
 
 ### Methods - Prototypes
 
-We will create two methods called **isDigit** and **isAlpha**. However in order to use these methods we will have to create their **prototype** functoin which required at the begining of the file.c when we run our program these prototypes will tell the program to register these methods first because they will be called later, they are bascily methods with no body, and they are decleared before the main function, we are telling the program that these methods will do somehting but have them saved in memory now. 
+We will create two methods called **isDigit** and **isAlpha**. However in order to use these methods we will have to create their **prototype** functoin which required at the begining of the file.c when we run our program these prototypes will tell the program to register these methods first because they will be called later, they are basically methods with no body, and they are decleared before the main function, we are telling the program that these methods will do somehting but have them saved in memory now. 
 
 ```c
 a#include <stdio.h>
